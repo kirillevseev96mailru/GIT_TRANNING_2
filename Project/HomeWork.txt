@@ -71,3 +71,9 @@ Author: kirillevseev96mailru <93669418+kirillevseev96mailru@users.noreply.github
 Date:   Sat Feb 24 15:05:43 2024 +0300
 
     Initial commit
+
+PS C:\Users\kiril\.git\GeekMain\GIT_TRANNING_2> git diff 120aaf 83e916
+\ No newline at end of file
++agagagagaga
++a..kgfnaklva
+\ No newline at end of file
