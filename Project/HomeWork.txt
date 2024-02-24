@@ -1,2 +1,73 @@
-agagagagaga
-a..kgfnaklva
+
+PS C:\Users\kiril\.git\GeekMain\GIT_TRANNING_2> git push 
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 358 bytes | 358.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/kirillevseev96mailru/GIT_TRANNING_2.git
+   d3d608d..83e916e  first -> first
+PS C:\Users\kiril\.git\GeekMain\GIT_TRANNING_2> git log
+commit 83e916e4a27aba990c5c0cff58a4266c0f358f03 (HEAD -> first, origin/first)
+Author: Kirill Evseev <kirill.evseev.96@mail.ru>
+Date:   Sat Feb 24 15:38:23 2024 +0300
+
+    DZ_2_1
+
+commit d3d608db71d83773a307667a1f2875bb5e99e071
+Author: Kirill Evseev <kirill.evseev.96@mail.ru>
+Date:   Sat Feb 24 15:36:34 2024 +0300
+
+    DZ_2
+
+commit bb3c5fba88ad9d9f0f7f6f0761985f7f73bb88f0
+Merge: 1d1f0bd 7dbfb6c
+Author: Kirill Evseev <kirill.evseev.96@mail.ru>
+Date:   Sat Feb 24 15:20:17 2024 +0300
+
+    Fix
+
+commit 1d1f0bd4f81b1e53cceddb9b71fd55126d6b9fa9
+Author: Kirill Evseev <kirill.evseev.96@mail.ru>
+Date:   Sat Feb 24 15:13:04 2024 +0300
+
+    error
+
+commit 83e916e4a27aba990c5c0cff58a4266c0f358f03 (HEAD -> first, origin/first)
+Author: Kirill Evseev <kirill.evseev.96@mail.ru>
+Date:   Sat Feb 24 15:38:23 2024 +0300
+
+    DZ_2_1
+
+commit d3d608db71d83773a307667a1f2875bb5e99e071
+Author: Kirill Evseev <kirill.evseev.96@mail.ru>
+Date:   Sat Feb 24 15:36:34 2024 +0300
+
+    DZ_2
+
+commit bb3c5fba88ad9d9f0f7f6f0761985f7f73bb88f0
+Merge: 1d1f0bd 7dbfb6c
+Author: Kirill Evseev <kirill.evseev.96@mail.ru>
+Date:   Sat Feb 24 15:20:17 2024 +0300
+
+    Fix
+
+commit 1d1f0bd4f81b1e53cceddb9b71fd55126d6b9fa9
+Author: Kirill Evseev <kirill.evseev.96@mail.ru>
+Date:   Sat Feb 24 15:13:04 2024 +0300
+
+    error
+
+commit 7dbfb6ce10e7897fbb1b7ee976075f8a9d411c0a
+Author: kirillevseev96mailru <93669418+kirillevseev96mailru@users.noreply.github.com>
+Date:   Sat Feb 24 15:09:11 2024 +0300
+
+    Update README.md
+
+commit f9fe3610c9d0031d3be590b04c8dab3bed0f53d6 (origin/main, origin/HEAD, main)
+Author: kirillevseev96mailru <93669418+kirillevseev96mailru@users.noreply.github.com>
+Date:   Sat Feb 24 15:05:43 2024 +0300
+
+    Initial commit
