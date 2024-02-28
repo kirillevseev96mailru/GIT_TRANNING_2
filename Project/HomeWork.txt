@@ -63,9 +63,25 @@ Date:   Sat Feb 24 15:05:43 2024 +0300
 
 
 
-    
+
 PS C:\Users\kiril\.git\GeekMain\GIT_TRANNING_2> git diff 120aaf 83e916
 \ No newline at end of file
 +agagagagaga
 +a..kgfnaklva
 \ No newline at end of file
+
+
+PS C:\Users\kiril\.git\GeekMain\GIT_TRANNING_2> git revert 120aaf9
+Auto-merging Project/HomeWork.txt
+CONFLICT (content): Merge conflict in Project/HomeWork.txt
+error: could not revert 120aaf9... DZ_2_2
+hint: After resolving the conflicts, mark them with
+hint: "git add/rm <pathspec>", then run
+hint: "git revert --continue".
+hint: You can instead skip this commit with "git revert --skip".
+hint: To abort and get back to the state before "git revert",
+hint: run "git revert --abort".
+
+
+!!!файл откатился до DZ_2_2!!!
+ЗДРАСЬТЕ ОТ НОВОГО ПК
